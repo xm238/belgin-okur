@@ -1,7 +1,3 @@
 # Belgin Okur Beauty
 
-Static landing page for **Belgin Okur Beauty**.
-
-## Run locally
-
-Open `index.html` in a browser.
+Template-family rebuild with separate HTML/CSS/JS files.
